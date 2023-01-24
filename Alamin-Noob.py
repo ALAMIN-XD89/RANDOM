@@ -6,8 +6,6 @@ from bs4 import BeautifulSoup as parser
 from time import sleep
 reload(sys)
 sys.setdefaultencoding("utf-8")
-
-
 # Color
 H = ('\x1b[1;90m')
 M = ('\x1b[1;91m')
