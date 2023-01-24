@@ -7,10 +7,6 @@ from time import sleep
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-"""
-Don't try to copy
-Understand ?
-"""
 
 # Color
 H = ('\x1b[1;90m')
